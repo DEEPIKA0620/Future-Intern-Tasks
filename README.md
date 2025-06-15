@@ -1,7 +1,8 @@
 # Future-Intern-Tasks
 Task 1: Data cleaning 
      PROJECT : Students performance Analysis in Exam
-         This project analyzes and predicts student performance using Data cleaning ,visualization,and machine learning 
+     
+This project analyzes and predicts student performance using Data cleaning ,visualization,and machine learning 
       # Task performed 
           * cleaned data and handled outliers 
           * Explored unique values in categorical columns
@@ -15,7 +16,8 @@ Task 1: Data cleaning
       
 Task 2: Calculate Summary Statistics
      PROJECT : Titanic Summary Statistics
-         This project calculate the summary statistics of Titanic Dataset
+     
+This project calculate the summary statistics of Titanic Dataset
               * Mean
               * Median
               * Mode
