@@ -1,5 +1,7 @@
 # Future-Intern-Tasks
-Task 1: Data cleaning 
+
+# Task 1: Data cleaning 
+
 PROJECT : Students performance Analysis in Exam
      
 This project analyzes and predicts student performance using Data cleaning ,visualization,and machine learning 
@@ -14,7 +16,8 @@ This project analyzes and predicts student performance using Data cleaning ,visu
 * predictions using a trained ML model
            
       
-Task 2: Calculate Summary Statistics
+# Task 2: Calculate Summary Statistics
+
 PROJECT : Titanic Summary Statistics
      
 This project calculate the summary statistics of Titanic Dataset
@@ -25,7 +28,8 @@ This project calculate the summary statistics of Titanic Dataset
 * Standard Deviation of The Dataset
 
               
-Task 3: Visualization Of Data
+# Task 3: Visualization Of Data
+
 PROJECT : Netflix Movies vs TV Shows – Data Visualization Project
 
 In this project, I explored the Netflix Movies and TV Shows dataset using Python to understand global content trends.
